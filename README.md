@@ -7,4 +7,5 @@ Gladiator NFT smart contract.
 
 ## DegenArena.sol
 
-Coming soon...
+Degen Arena smart contract.  
+    <https://etherscan.io/address/0x661d8AEb25e50A36d637c8A48DC84c5e8d782C45#code>
